@@ -1,0 +1,16 @@
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.exe
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.deps.json
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.runtimeconfig.json
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.runtimeconfig.dev.json
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.dll
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.pdb
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\ClassProject7.dll
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\ClassProject7.pdb
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.csprojAssemblyReference.cache
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.AssemblyInfoInputs.cache
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.AssemblyInfo.cs
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.csproj.CoreCompileInputs.cache
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.csproj.CopyComplete
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.dll
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.pdb
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.genruntimeconfig.cache

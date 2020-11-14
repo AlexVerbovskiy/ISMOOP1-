@@ -1,0 +1,9 @@
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\ClassAirplane\bin\Debug\netstandard2.0\ClassProject7.deps.json
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\ClassAirplane\bin\Debug\netstandard2.0\ClassProject7.dll
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\ClassAirplane\bin\Debug\netstandard2.0\ClassProject7.pdb
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\ClassAirplane\obj\Debug\netstandard2.0\ClassProject7.csprojAssemblyReference.cache
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\ClassAirplane\obj\Debug\netstandard2.0\ClassProject7.AssemblyInfoInputs.cache
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\ClassAirplane\obj\Debug\netstandard2.0\ClassProject7.AssemblyInfo.cs
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\ClassAirplane\obj\Debug\netstandard2.0\ClassProject7.csproj.CoreCompileInputs.cache
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\ClassAirplane\obj\Debug\netstandard2.0\ClassProject7.dll
+C:\Users\cofee\OneDrive\Робочий стіл\labwithvisual\OOP1\ClassAirplane\obj\Debug\netstandard2.0\ClassProject7.pdb
